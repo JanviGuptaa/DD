@@ -1,8 +1,6 @@
-# Tomato-Food-delivery
+# Diner-Dash-delivery
 React Restaurant Application
 This React application is a restaurant platform where users can explore menu items, add items to their cart, place orders, and proceed to checkout. It features a responsive design and utilizes React Router for navigation.
-## Deployment
-The application is deployed and accessible at https://app-food-tomato.netlify.app/
 ## ##Features
 
  Sign-in Page: Users can sign in to access additional features <br>
